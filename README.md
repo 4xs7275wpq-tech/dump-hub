@@ -1,4 +1,4 @@
-# Dump Hub <img src="dump-hub-fe/src/favicon.ico" width=22px/>
+extract # Dump Hub <img src="dump-hub-fe/src/favicon.ico" width=22px/>
 
 <img src="demo/header.png"/>  
 
